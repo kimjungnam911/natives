@@ -5,7 +5,7 @@ ns: HUD
 
 ```c
 // 0x6806C51AD12B83B8 0xDB2D0762
-void HIDE_HUD_COMPONENT_THIS_FRAME(int id);
+void HIDE_HUD_COMPONENT_THIS_FRAME(int id 20);
 ```
 
 This function hides various HUD (Heads-up Display) components.
